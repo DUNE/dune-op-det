@@ -1,4 +1,4 @@
-# dune-opdet
+# dune-op-det
 Optical detector simulation, reconstruction and utility code for DUNE's Phlex-based software stack
 
 ## Copyright and Licensing
